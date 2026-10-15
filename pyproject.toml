@@ -1,0 +1,19 @@
+[project]
+name = "ai-study"
+version = "0.1.0"
+description = "개인 AI 학습 기록"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "jupyterlab",
+]
+
+[dependency-groups]
+dev = ["nbstripout", "ruff"]
+
+# 주제별로 무거운 의존성(torch, transformers 등)이 필요하면
+# 해당 topics/NN-xxx/ 안에 별도 pyproject.toml 또는 requirements.txt 를 두세요.

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.python-version
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# 데이터 / 모델 (출처만 data/README.md 에 기록)
+data/*
+!data/README.md
+!data/.gitkeep
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.h5
+*.pkl
+*.parquet
+models/
+checkpoints/
+
+# 실험 추적 도구
+mlruns/
+wandb/
+lightning_logs/
+runs/
+
+# 환경 / OS / 에디터
+.env
+.DS_Store
+.idea/
+.vscode/
