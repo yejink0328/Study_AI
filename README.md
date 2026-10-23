@@ -7,7 +7,17 @@
 <!-- TOPICS:START -->
 | # | 주제 | 이론 | 실습 | 실험 |
 |---|---|---|---|---|
-| - | (아직 없음) | | | |
+| 01 | [EDA](topics/01-eda/) | 0 | 0 | 0 |
+| 02 | [MLP](topics/02-mlp/) | 0 | 0 | 0 |
+| 03 | [Tokenization_Embedding](topics/03-tokenization-embedding/) | 0 | 0 | 0 |
+| 04 | [Synthetic_Data](topics/04-synthetic-data/) | 0 | 0 | 0 |
+| 05 | [CNN](topics/05-cnn/) | 0 | 0 | 0 |
+| 06 | [Image_Generation](topics/06-image-generation/) | 0 | 0 | 0 |
+| 07 | [RAG](topics/07-rag/) | 0 | 0 | 0 |
+| 08 | [Agent_Service](topics/08-agent-service/) | 0 | 0 | 0 |
+| 09 | [Service_Prototyping](topics/09-service-prototyping/) | 0 | 0 | 0 |
+| 10 | [PEFT](topics/10-peft/) | 0 | 0 | 0 |
+| 11 | [Quantization_TTP](topics/11-quantization-ttp/) | 0 | 0 | 0 |
 <!-- TOPICS:END -->
 
 ## 구조
